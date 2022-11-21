@@ -1,0 +1,19 @@
+.featured{
+    font-size: 25px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.amazing{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    color: gray;
+   
+}
+.flexbox{
+    display: flex;
+    justify-content: space-around;
+}

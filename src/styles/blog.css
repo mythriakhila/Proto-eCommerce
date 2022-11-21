@@ -1,0 +1,108 @@
+.blogContainer{
+    width: 1253px;
+    height: 600px;
+    background-color: rgb(242, 237, 237);
+    padding: 4rem;
+}
+.blogheading{
+ 
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.bloghead2{
+    font-size: 17px;
+    text-align: center;
+}
+.blogsdiv{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+}
+.ancnews{
+    color: black;
+    text-decoration: none;
+    
+}
+.ancnews1{
+    color: black;
+    text-decoration: none;
+}
+.ancnews:hover{
+    text-decoration: underline;
+}
+.date{
+    width: 110px;
+    height: 40px;
+    color: white;
+    background-color: black;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 15px;
+   font-weight: 600;
+   margin-top: 15px;
+}
+.para11{
+    color: black;
+    font-weight: 300;
+    margin-top: 10px;
+}
+.para21{
+    font-size: 15px;
+    color: black;
+    font-weight: 300;
+    margin-top: 5px;
+}
+.ancread1{
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 15px;
+    color: black;
+}
+.ancread2{
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 15px;
+    color: black;
+}
+.ancread{
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+.ancread:hover{
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+    text-decoration: underline;
+}
+.blog1{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    padding: 2rem;
+}
+.blog2{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    padding: 2rem;
+}
+.our{
+    height: 40px;
+    width: 120px;
+background-color: black;
+margin-left: 32rem;
+margin-top: 6rem;
+display: flex;
+justify-content: center;
+align-items: center;
+color:white;
+text-decoration: none;
+}
+.ancour{
+    text-decoration: none;
+    color: white;
+}

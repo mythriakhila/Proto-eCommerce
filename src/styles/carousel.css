@@ -1,0 +1,163 @@
+.carouselContainer{
+    height: 550px;
+    width: 1253px;
+    /* background-color:rgb(146, 145, 145); */
+    background: transparent;
+}
+.carouselflex{
+    position: absolute;
+    top: 1rem;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.carouselflex2{
+    position: absolute;
+   left: 46rem;
+    display: flex;
+    justify-content: space-around;
+    column-gap: 15px;
+    align-items: center;
+}
+.carouselImg{
+    height: 550px;
+    width: 1253px;
+}
+.carouselImg2{
+    height: 550px;
+    width: 1253px;
+}
+.carousel1{
+    height: 550px;
+    width: 1253px; 
+    position: relative;
+}
+.ab{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    opacity: 0.2;
+}
+.ab:hover{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    opacity: 1;
+    transition: 2s;
+}
+.abcd{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    opacity: 0.2;
+}
+.abcd:hover{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    opacity: 1;
+    transition: 2s;
+}
+.new{
+    font-family: Segoe Script,Savoye LET;
+    font-size: 3rem;
+}
+.rotation{
+    position: relative;
+}
+.rotate{
+    position: absolute;
+    left: -10%;
+    bottom: 34%;
+    font-size: 20px;
+    font-weight: 600;
+    transform:  rotate(-90deg);
+}
+.flat{
+    font-size: 70px;
+    font-weight: 800;
+
+}
+.carousel2{
+    height: 550px;
+    width: 1253px;
+    position: relative; 
+}
+.carouseltop{
+    width: 90px;
+    height: 40px;
+    margin-left: 2rem;
+   
+}
+.carouseltop1{
+    width: 100px;
+    height: 60px;
+}
+.carouseltop2{
+    width: 50px;
+    /* height: 35px; */
+    color: white;
+    font-size: 30px;
+}
+.carouseltops{
+    height: 80px;
+    width: 80px;
+
+}
+.carouselheart{
+    /* height: 35px; */
+    width: 50px;
+    font-size: 30px;
+color: white;
+}
+.carouselcart{
+    /* height: 35px; */
+    width: 50px;
+font-size: 35px;
+color: white;
+}
+.search{
+    width: 300px;
+    background-color:white;
+    border: 1px solid gray;
+}
+.border{
+   background-color: black;
+    width: 90px;
+    height: 5px;
+
+}
+.boldletter{
+    font-size: 20px;
+    font-weight: 700;
+}
+.span39{
+ 
+    font-size: 35px;
+    font-weight: 900;
+
+ 
+}
+.spansection{
+    position: relative;
+}
+.ancshop{
+  
+    font-size: 25px;
+    font-weight: 600;
+text-decoration: none;
+color: black;
+}
+.ancshop:hover{
+    color: rgb(214, 211, 211);
+}
+.shop{
+    margin-left: 1rem;
+    /* height: 120px; */
+    width: 200px;
+   padding: 1.5rem;
+    background-color: white;
+}

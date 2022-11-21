@@ -1,0 +1,11 @@
+.imgContainer{
+    display: flex;
+    justify-content: space-around;
+   
+// display: grid;
+// grid-template-rows:auto auto auto auto ;
+    .image{
+        width: 200px;
+        height: 200px;
+    }
+}

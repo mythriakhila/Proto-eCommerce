@@ -1,0 +1,10 @@
+.brandHeader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    height: 120px;
+}
+.image{
+    height: 60px;
+}
